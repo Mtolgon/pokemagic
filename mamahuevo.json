@@ -2,7 +2,7 @@
     "$schema": "https://magincyangames.github.io/MagicPokedex/data/schemas/author.json",
     "name": "Manu",
     "pokemons": {
-        "bulbasaur": ""
+        "bulbasaur": "https://raw.githubusercontent.com/Mtolgon/pokemagic/refs/heads/main/PATINAR.png"
         
     }
 }
